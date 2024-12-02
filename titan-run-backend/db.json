@@ -1,0 +1,6 @@
+{
+    "orders": [ 
+        { "id": 1, "date": "4/22/2021", "product": { "name": "Latte", "price": 8.00, "size": "small", "quantity": 1 } },
+        { "id": 2, "date": "4/23/2021", "product": { "name": "Cappuccino", "price": 10.00, "size": "Large", "quantity": 5 } }
+    ]
+}
